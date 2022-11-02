@@ -1,5 +1,6 @@
 body {
-    center / cover fixed;
+  display: flex;
+  justify-content: center;
 }
 input {
   display: inline-flex;
